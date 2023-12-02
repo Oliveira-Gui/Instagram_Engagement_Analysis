@@ -36,6 +36,7 @@ The project aims to answer the following questions:
 ## Repository Structure
 
 **Company_X_Database.xlsx**: Contains the Instagram database files.
+
 **Analyzing_engagement_Company_X.ipynb**: Jupyter notebooks used for data analysis.
 
 ## Project Contributors
