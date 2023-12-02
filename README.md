@@ -47,6 +47,6 @@ The project aims to answer the following questions:
 The data used for this project is fictitious. 
 Feel free to contribute or use the code base for your own projects.
 
-For any inquiries, please contact guilhermeassisoiliveira@gmail.com.
+For any inquiries, please contact **[guilhermeassisoliveira@gmail.com]**
 
 Happy Analyzing! 📊🚀
